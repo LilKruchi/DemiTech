@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script&display=swap');
+
+body{
+    background: linear-gradient(90deg, #0103aa 0%, #1cb5e0 100%);
+}
+
+.mainBody{
+    font-family: 'Oleo Script', cursive;
+    font-size: 45px;
+    color: #fff;
+    
+}
